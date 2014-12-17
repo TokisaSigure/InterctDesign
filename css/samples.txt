@@ -1,0 +1,18 @@
+第11回メモ
+・授業内で教わったcssの説明について
+
+CSS呼び出し方
+・<link rel="stylesheet" type="text/css" href="(読み込みたいcssファイル名)">
+
+css記述方法
+・h1,h2{
+  color:green;
+  text-align:center;
+}
+
+h1,h2...htmlでの要素の指定
+color...文字の色の変更だったはず
+text-align...文字の配置場所の指定
+※色の指定について
+基本色は、「green」の様に簡易に呼び出す方法がある。
+細かい色の指定は「#000000」等、16進数を使って「RGB」で指定する
